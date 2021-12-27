@@ -7,12 +7,10 @@ class Outer {
     //补齐代码 需求１
     // public static Inter method() {
     //     return new Inter() {
-
     //         @Override
     //         public void show() {
     //             System.out.println("HelloWorld");
     //         }
-            
     //     };
     // }
     //补齐代码　需求２
