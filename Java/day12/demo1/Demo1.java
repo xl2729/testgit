@@ -11,7 +11,6 @@ public class Demo1 {
         Supplier<Integer> supplier = ()->{
             return new Random().nextInt(101)+100;
         };
-
         Integer result = supplier.get();
         System.out.println("随机产生一个100-200的整数："+result);
     }
